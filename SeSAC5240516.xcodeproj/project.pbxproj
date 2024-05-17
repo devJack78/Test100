@@ -16,6 +16,7 @@
 		04F7DC912BF5A0DA000D0D08 /* jack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F7DC902BF5A0DA000D0D08 /* jack.swift */; };
 		04F7DC932BF5A206000D0D08 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F7DC922BF5A206000D0D08 /* SearchViewController.swift */; };
 		04F7DC952BF5A2D3000D0D08 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F7DC942BF5A2D3000D0D08 /* ProfileViewController.swift */; };
+		04F7DCBF2BF7225A000D0D08 /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F7DCBE2BF7225A000D0D08 /* ExampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		04F7DC902BF5A0DA000D0D08 /* jack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jack.swift; sourceTree = "<group>"; };
 		04F7DC922BF5A206000D0D08 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		04F7DC942BF5A2D3000D0D08 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		04F7DCBE2BF7225A000D0D08 /* ExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				04F7DC812BF5826A000D0D08 /* LaunchScreen.storyboard */,
 				04F7DC842BF5826A000D0D08 /* Info.plist */,
 				04F7DC942BF5A2D3000D0D08 /* ProfileViewController.swift */,
+				04F7DCBE2BF7225A000D0D08 /* ExampleViewController.swift */,
 			);
 			path = SeSAC5240516;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				04F7DC932BF5A206000D0D08 /* SearchViewController.swift in Sources */,
 				04F7DC8E2BF59493000D0D08 /* ViewController.swift in Sources */,
 				04F7DC772BF58269000D0D08 /* AppDelegate.swift in Sources */,
+				04F7DCBF2BF7225A000D0D08 /* ExampleViewController.swift in Sources */,
 				04F7DC792BF58269000D0D08 /* SceneDelegate.swift in Sources */,
 				04F7DC912BF5A0DA000D0D08 /* jack.swift in Sources */,
 			);
